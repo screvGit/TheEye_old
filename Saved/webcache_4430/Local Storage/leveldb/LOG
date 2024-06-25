@@ -1,2 +1,3 @@
-2024/06/24-12:57:32.583 12ea0 Creating DB C:/Users/screv/Documents/Unreal Projects/TheEye/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/06/24-12:57:32.596 12ea0 Reusing MANIFEST C:/Users/screv/Documents/Unreal Projects/TheEye/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/24-19:57:36.205 17d60 Reusing MANIFEST C:/Users/screv/Documents/Unreal Projects/TheEye/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/24-19:57:36.206 17d60 Recovering log #3
+2024/06/24-19:57:36.206 17d60 Reusing old log C:/Users/screv/Documents/Unreal Projects/TheEye/Saved/webcache_4430\Local Storage\leveldb/000003.log 
